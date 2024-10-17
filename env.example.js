@@ -1,6 +1,6 @@
 window.settings = {
   // 站点标题
-  title: 'UniTrust',
+  title: 'M1VPN',
   // 站点描述
   description: '邮件收不到检查垃圾邮件',
   // API
@@ -9,7 +9,7 @@ window.settings = {
   theme: {
     sidebar: 'light',
     header: 'dark',
-    color: 'black'
+    color: 'default'
   },
   // 背景
   background_url: '',
